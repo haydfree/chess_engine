@@ -1,1 +1,2 @@
-﻿# chess engine using alpha-beta pruning
+﻿# chess engine 
+using alpha-beta pruning
